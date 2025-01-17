@@ -43,6 +43,10 @@ Follow these steps to run the Paint Application locally:
 
 ## Demonstration
 
+
+https://github.com/user-attachments/assets/61475d6d-5487-44db-bc23-278ae478817d
+
+
 ## 📸 Screenshots
 ![paint-image](https://github.com/user-attachments/assets/ce0d7685-1483-49ee-b7bd-ee27c5f421d2)
 
