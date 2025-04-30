@@ -175,7 +175,7 @@ saveStorageBtn.addEventListener('click', () => {
 // Load from Local Storage
 loadStorageBtn.addEventListener('click', () => {
   if (localStorage.getItem('savedCanvas')) {
-    drawnArray = JSON.parse(localStorage.savedCanvas);
+    drawnArray = JSON.parse(localStorage.getItem('savedCanvas'));
     restoreCanvas();
     // Active Tool
     activeToolEl.textContent = 'Canvas Loaded';
